@@ -1,0 +1,8 @@
+.idea/*
+__pychache__/*
+static/
+database/**
+*.bin
+*.sqlite3
+*.sqlite3-journal
+*.env
